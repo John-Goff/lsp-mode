@@ -230,8 +230,17 @@
     "debugger": "Not available"
   },
   {
+    "name": "emmet-lang-server",
+    "full-name": "Emmet (emmet-language-server)",
+    "server-name": "emmet-lang-server",
+    "server-url": "https://github.com/olrtg/emmet-language-server",
+    "installation": "npm i -g @olrtg/emmet-language-server",
+    "lsp-install-server": "emmet-lang-server",
+    "debugger": "Not available"
+  },
+  {
     "name": "emmet",
-    "full-name": "Emmet",
+    "full-name": "Emmet (emmet-ls)",
     "server-name": "emmet-ls",
     "server-url": "https://github.com/aca/emmet-ls",
     "installation": "npm i -g emmet-ls",

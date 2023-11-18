@@ -69,7 +69,8 @@ nav:
     - Dockerfile: page/lsp-dockerfile.md
     - Elixir: page/lsp-elixir.md
     - Elm: page/lsp-elm.md
-    - Emmet: page/lsp-emmet.md
+    - Emmet (emmet-language-server): page/lsp-emmet-lang-server.md
+    - Emmet (emmet-ls): page/lsp-emmet.md
     - Erlang: page/lsp-erlang.md
     - ESLint: page/lsp-eslint.md
     - F#: page/lsp-fsharp.md

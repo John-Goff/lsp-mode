@@ -44,6 +44,7 @@
   * Disable ~lsp-steep-use-bundler~ by default.
   * Add [[https://github.com/idris-community/idris2-lsp][idris2-lsp]]
   * Add [[https://github.com/aca/emmet-ls][emmet-ls]]
+  * Add [[https://github.com/olrtg/emmet-language-server][emmet-language-server]]
   * Support all ~initializationOptions~ in ~typescript-language-server~
   * Update rust-analyzer's inlay hint protocol support.
   * Add support for ~typescript-language-server~’s inlay hints.
